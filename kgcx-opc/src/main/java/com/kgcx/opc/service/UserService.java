@@ -1,22 +1,22 @@
-package com.kgcx.mapper.user;
+package com.kgcx.opc.service;
 
-import com.kgcx.entity.User;
-import com.kgcx.query.UserQuery;
-import org.springframework.stereotype.Component;
+
+
+import com.kgcx.opc.entity.User;
+import com.kgcx.opc.query.UserQuery;
 
 import java.util.List;
 
 
 /**
- * 用户持久化层
+ * 用户业务层
  *
- * @author 苏晓蒙
+ * @author
  * @version 0.1
- * @time 2017/9/18 13:16
+ * @time 2017/9/18 13:18
  * @since 0.1
  */
-@Component
-public interface UserMapper {
+public interface UserService {
     /**
      * 根据ID查询用户信息
      *

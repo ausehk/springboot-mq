@@ -14,7 +14,7 @@ import java.text.SimpleDateFormat;
 /**
  * toJSON && fromJSON 的工具类
  *
- * @author 苏晓蒙
+ * @author
  * @version 0.1
  * @time 2017/3/9 9:47
  * @since 0.1
@@ -47,7 +47,7 @@ public class JacksonHelper implements Serializable {
      *
      * @param obj Java对象，可以是对象，数组，List,Map等
      * @return json 字符串
-     * @author 苏晓蒙
+     * @author
      * @time 2017/3/9 10:08
      * @version 0.1
      * @since 0.1
@@ -68,7 +68,7 @@ public class JacksonHelper implements Serializable {
      * @param jsonString
      * @param clazz
      * @return Object
-     * @author 苏晓蒙
+     * @author
      * @time 2017/3/9 10:08
      * @version 0.1
      * @since 0.1
@@ -94,7 +94,7 @@ public class JacksonHelper implements Serializable {
      * @param jsonString    JSON字符串
      * @param typeReference TypeReference,例如: new TypeReference< List<FamousUser> >(){}
      * @return List对象列表
-     * @author 苏晓蒙
+     * @author
      * @time 2017/3/9 10:08
      * @version 0.1
      * @since 0.1

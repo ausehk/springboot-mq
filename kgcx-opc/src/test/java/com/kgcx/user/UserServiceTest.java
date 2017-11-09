@@ -2,9 +2,9 @@ package com.kgcx.user;
 
 import com.github.pagehelper.PageHelper;
 import com.kgcx.KgcxOpcApplicationTests;
-import com.kgcx.entity.User;
-import com.kgcx.query.UserQuery;
-import com.kgcx.service.UserService;
+import com.kgcx.opc.entity.User;
+import com.kgcx.opc.query.UserQuery;
+import com.kgcx.opc.service.UserService;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 

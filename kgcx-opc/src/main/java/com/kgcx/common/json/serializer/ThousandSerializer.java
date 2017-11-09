@@ -12,7 +12,7 @@ import java.text.NumberFormat;
 /**
  * 数字千分位转换器
  *
- * @author 苏晓蒙
+ * @author
  * @version 0.1
  * @time 2017/3/9 9:38
  * @since 0.1

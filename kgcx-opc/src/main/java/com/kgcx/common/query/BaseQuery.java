@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 查询的基类
  *
- * @author 苏晓蒙
+ * @author
  * @version 0.1
  * @time 2017/4/21 11:12
  * @since 0.1

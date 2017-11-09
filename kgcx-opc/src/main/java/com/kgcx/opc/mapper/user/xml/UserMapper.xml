@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.kgcx.mapper.user.UserMapper">
-  <resultMap id="BaseResultMap" type="com.kgcx.entity.User">
+<mapper namespace="com.kgcx.opc.mapper.user.UserMapper">
+  <resultMap id="BaseResultMap" type="com.kgcx.opc.entity.User">
     <id column="id" jdbcType="VARCHAR" property="id" />
     <result column="name" jdbcType="VARCHAR" property="userName" />
     <result column="password" jdbcType="VARCHAR" property="password" />
@@ -15,7 +15,7 @@
         WHERE id = #{id,jdbcType=VARCHAR}
   </select>
 
-  <select id="queryUserList" parameterType="com.kgcx.query.UserQuery"
+  <select id="queryUserList" parameterType="com.kgcx.opc.query.UserQuery"
             resultMap="BaseResultMap">
         SELECT
           id,name,password

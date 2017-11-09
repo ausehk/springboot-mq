@@ -9,7 +9,7 @@ import java.io.IOException;
 
 /**布尔类型转换器
  *
- * @author 苏晓蒙
+ * @author
  * @version 0.1
  * @time 2017/3/9 9:37
  * @since 0.1

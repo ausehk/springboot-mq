@@ -1,9 +1,9 @@
-package com.kgcx.service.impl;
+package com.kgcx.opc.service.impl;
 
-import com.kgcx.entity.User;
-import com.kgcx.query.UserQuery;
-import com.kgcx.service.UserService;
-import com.kgcx.mapper.user.UserMapper;
+import com.kgcx.opc.entity.User;
+import com.kgcx.opc.query.UserQuery;
+import com.kgcx.opc.service.UserService;
+import com.kgcx.opc.mapper.user.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 用户实现类
  *
- * @author 苏晓蒙
+ * @author
  * @version 0.1
  * @time 2017/9/18 13:20
  * @since 0.1

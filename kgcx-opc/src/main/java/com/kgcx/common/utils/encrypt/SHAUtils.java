@@ -5,7 +5,7 @@ import java.security.MessageDigest;
 /**
  * hash加密工具类
  *
- * @author 苏晓蒙
+ * @author
  * @version 0.1
  * @time 2017/3/13 14:13
  * @since 0.1
@@ -20,7 +20,7 @@ public class SHAUtils {
      *
      * @param
      * @return
-     * @author 苏晓蒙
+     * @author
      * @time 2017/3/13 14:16
      * @version 0.1
      * @since 0.1
@@ -34,7 +34,7 @@ public class SHAUtils {
      *
      * @param
      * @return
-     * @author 苏晓蒙
+     * @author
      * @time 2017/3/13 14:16
      * @version 0.1
      * @since 0.1
@@ -48,7 +48,7 @@ public class SHAUtils {
      *
      * @param
      * @return
-     * @author 苏晓蒙
+     * @author
      * @time 2017/3/13 14:16
      * @version 0.1
      * @since 0.1
@@ -62,7 +62,7 @@ public class SHAUtils {
      *
      * @param
      * @return
-     * @author 苏晓蒙
+     * @author
      * @time 2017/3/13 14:16
      * @version 0.1
      * @since 0.1
@@ -76,7 +76,7 @@ public class SHAUtils {
      *
      * @param
      * @return
-     * @author 苏晓蒙
+     * @author
      * @time 2017/3/13 14:16
      * @version 0.1
      * @since 0.1
@@ -107,7 +107,7 @@ public class SHAUtils {
      *
      * @param
      * @return
-     * @author 苏晓蒙
+     * @author
      * @time 2017/3/13 14:20
      * @version 0.1
      * @since 0.1
@@ -126,7 +126,7 @@ public class SHAUtils {
      *
      * @param
      * @return
-     * @author 苏晓蒙
+     * @author
      * @time 2017/3/13 14:19
      * @version 0.1
      * @since 0.1

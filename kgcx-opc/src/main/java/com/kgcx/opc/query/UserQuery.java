@@ -1,27 +1,22 @@
-package com.kgcx.entity;
+package com.kgcx.opc.query;
 
-import java.io.Serializable;
+
+import com.kgcx.common.query.BaseQuery;
 
 /**
- * 用户实体类
- *
- * @author 苏晓蒙
- * @version 0.1
- * @time 2017/9/18 13:19
- * @since 0.1
- */
-public class User implements Serializable {
-    /**
-     * id
-     */
+ * class_name: UserQuery
+ * package: com.kgcx.query
+ * describe: TODO
+ * creat_user: 何凯
+ * creat_date: 2017/11/9
+ * creat_time: 21:16
+**/
+public class UserQuery extends BaseQuery {
+
     private String id;
-    /**
-     * 用户姓名
-     */
+
     private String userName;
-    /**
-     * 密码
-     */
+
     private String password;
 
     public String getId() {
