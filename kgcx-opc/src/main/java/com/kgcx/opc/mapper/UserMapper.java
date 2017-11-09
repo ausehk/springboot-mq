@@ -1,4 +1,4 @@
-package com.kgcx.opc.mapper.user;
+package com.kgcx.opc.mapper;
 
 import com.kgcx.opc.entity.User;
 import com.kgcx.opc.query.UserQuery;

@@ -3,7 +3,7 @@ package com.kgcx.opc.service.impl;
 import com.kgcx.opc.entity.User;
 import com.kgcx.opc.query.UserQuery;
 import com.kgcx.opc.service.UserService;
-import com.kgcx.opc.mapper.user.UserMapper;
+import com.kgcx.opc.mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
