@@ -1,4 +1,4 @@
-package com.cgcx.common.exceptions;
+package com.kgcx.common.exceptions;
 
 /**
  * 默认响应的是json字符串给客户端

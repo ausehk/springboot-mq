@@ -1,7 +1,7 @@
-package com.cgcx.common.exceptions;
+package com.kgcx.common.exceptions;
 
 
-import com.cgcx.common.enums.ModuleCodeEnum;
+import com.kgcx.common.enums.ModuleCodeEnum;
 
 /**
  * 业务异常基类，针对预期的异常，需要在程序中抛出此类的异常,所有业务异常都必须继承于此异常

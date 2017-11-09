@@ -1,15 +1,14 @@
-package com.cgcx.user;
+package com.kgcx.user;
 
-import com.cgcx.RabbitmqConsumerApplicationTests;
-import com.cgcx.send.entity.User;
-import com.cgcx.send.query.UserQuery;
-import com.cgcx.send.service.UserService;
 import com.github.pagehelper.PageHelper;
+import com.kgcx.KgcxOpcApplicationTests;
+import com.kgcx.entity.User;
+import com.kgcx.query.UserQuery;
+import com.kgcx.service.UserService;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
-
 
 /**
  * 业务测试类
@@ -19,7 +18,7 @@ import java.util.List;
  * @time 2017/9/12 12:31
  * @since 0.1
  */
-public class UserServiceTest extends RabbitmqConsumerApplicationTests {
+public class UserServiceTest extends KgcxOpcApplicationTests {
 
     @Autowired
     private UserService userService;

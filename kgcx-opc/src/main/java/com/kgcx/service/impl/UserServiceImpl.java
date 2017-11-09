@@ -1,9 +1,9 @@
-package com.cgcx.send.service.impl;
+package com.kgcx.service.impl;
 
-import com.cgcx.send.entity.User;
-import com.cgcx.send.mapper.user.UserMapper;
-import com.cgcx.send.query.UserQuery;
-import com.cgcx.send.service.UserService;
+import com.kgcx.entity.User;
+import com.kgcx.query.UserQuery;
+import com.kgcx.service.UserService;
+import com.kgcx.mapper.user.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

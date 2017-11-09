@@ -1,8 +1,8 @@
 package com.cgcx.user;
 
-import com.cgcx.BaseTest;
+import com.cgcx.RabbitmqConsumerApplicationTests;
 import com.cgcx.send.entity.User;
-import com.cgcx.send.mapper.UserMapper;
+import com.cgcx.send.mapper.user.UserMapper;
 import com.cgcx.send.query.UserQuery;
 import com.github.pagehelper.PageHelper;
 import org.junit.Test;
@@ -18,7 +18,7 @@ import java.util.List;
  * @time 2017/9/12 12:04
  * @since 0.1
  */
-public class UserMapperTest extends BaseTest {
+public class UserMapperTest extends RabbitmqConsumerApplicationTests {
 
     @Autowired
     private UserMapper userMapper;

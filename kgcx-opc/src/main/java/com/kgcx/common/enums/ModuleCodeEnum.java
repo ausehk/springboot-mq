@@ -1,4 +1,4 @@
-package com.cgcx.common.enums;
+package com.kgcx.common.enums;
 
 /**
  * 定义异常时，需要先确定异常所属模块。

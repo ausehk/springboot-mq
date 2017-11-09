@@ -1,4 +1,4 @@
-package com.cgcx.common.dto;
+package com.kgcx.common.dto;
 
 import java.io.Serializable;
 
