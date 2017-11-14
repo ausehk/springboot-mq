@@ -1,7 +1,7 @@
 package com.kgcx.opc.query;
 
 
-import com.kgcx.common.query.BaseQuery;
+import com.kgcx.opc.common.query.BaseQuery;
 
 /**
  * class_name: UserQuery

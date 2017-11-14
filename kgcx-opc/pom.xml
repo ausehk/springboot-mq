@@ -112,7 +112,11 @@
 			<!-- 工作域，驱动只有在真正工作的时候才会用到 <scope>runtime</scope> -->
 			<scope>runtime</scope>
 		</dependency>
-
+         <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.32</version>
+        </dependency>
 
 	</dependencies>
 
